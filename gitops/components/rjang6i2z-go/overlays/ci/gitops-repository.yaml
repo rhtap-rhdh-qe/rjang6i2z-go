@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rjang6i2z-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rjang6i2z-go-gitops
